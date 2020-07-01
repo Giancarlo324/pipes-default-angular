@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "expoPipes"
+    }
+  },
+  "defaultProject": "expoPipes",
+  "cli": {
+    "analytics": "e7d74687-ccb1-4bc1-9b8f-ea294d1d8188"
+  }
 }
